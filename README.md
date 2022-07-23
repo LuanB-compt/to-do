@@ -12,4 +12,5 @@ Tasks, ideas, projects, codes that I want to do.
 - Documentation about tmux, Vim, IDE's
 - Create a place to organizate my links
 - Finance_control with Java?
+- Curso na DIO sobre Java [link](https://web.dio.me/play?tab=cursos)
 - Repo with Infra
