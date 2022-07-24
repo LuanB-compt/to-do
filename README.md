@@ -17,3 +17,19 @@ Tasks, ideas, projects, codes that I want to do.
 - Make a Wallpaper for my notebook
 - Make a Wallpaper for my cellphone
 - Rewrite the details in English of my repos
+- Scripts to windows close and shutdown WSL
+- MORE RAM
+
+<br>
+
+-----------------------------
+
+<br>
+
+# **done**
+<br>
+
+-----------------------------
+
+<br>
+- Setup dev with Arch Linux in WSL
