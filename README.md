@@ -14,3 +14,5 @@ Tasks, ideas, projects, codes that I want to do.
 - Finance_control with Java?
 - Curso na DIO sobre Java [link](https://web.dio.me/play?tab=cursos)
 - Repo with Infra
+- Make a Wallpaper for my notebook
+- Make a Wallpaper for my cellphone
