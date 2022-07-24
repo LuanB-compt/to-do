@@ -19,6 +19,8 @@ Tasks, ideas, projects, codes that I want to do.
 - Rewrite the details in English of my repos
 - Scripts to windows close and shutdown WSL
 - MORE RAM
+- Upgrade my personal README
+- LunarVim with [ChrisAtMachine](https://www.youtube.com/c/ChrisAtMachine/playlists)
 
 <br>
 
