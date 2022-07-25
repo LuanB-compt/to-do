@@ -34,5 +34,6 @@ Tasks, ideas, projects, codes that I want to do.
 -----------------------------
 
 <br>
+
 - Setup dev with Arch Linux in WSL
 - Scripts to windows close and shutdown WSL
