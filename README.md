@@ -1,39 +1,37 @@
-# **to-do**
-<br>
-
------------------------------
-
-<br>
-
+# **to-do:**
 Tasks, ideas, projects, codes that I want to do.
-- Create a to-do repo
 - Use the same anaconda to wsl
 - Learn tmux and Vim
 - Documentation about tmux, Vim, IDE's
 - Create a place to organizate my links
-- Finance_control with Java?
-- DIO's course about Java [link](https://web.dio.me/play?tab=cursos)
 - Repo with Infra
 - Make a Wallpaper for my notebook
 - Make a Wallpaper for my cellphone
-- Rewrite the details in English of my repos
 - MORE RAM
 - Upgrade my personal README
 - LunarVim with [ChrisAtMachine](https://www.youtube.com/c/ChrisAtMachine/playlists)
 
+
 <br>
 
 -----------------------------
 
 <br>
 
-# **done**
+# **doing:**
+- Rewrite the details in English of my repos
+- Finance_control with Java?
+- More Java course to learn the first 20% of knowledgment
+
 <br>
 
 -----------------------------
 
 <br>
 
+# **done:**
+- Create a to-do repo
 - Setup dev with Arch Linux in WSL
 - Scripts to windows close and shutdown WSL
+- DIO's course about Java [link](https://web.dio.me/play?tab=cursos)
 - Java course in DIO?
