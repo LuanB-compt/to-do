@@ -9,6 +9,7 @@ Tasks, ideas, projects, codes that I want to do.
 - MORE RAM
 - Upgrade my personal README
 - LunarVim with [ChrisAtMachine](https://www.youtube.com/c/ChrisAtMachine/playlists)
+- Documentation about LunarVim
 
 
 <br>
@@ -21,7 +22,6 @@ Tasks, ideas, projects, codes that I want to do.
 - Rewrite the details in English of my repos
 - Finance_control with Java?
 - More Java course to learn the first 20% of knowledgment
-- Documentation about tmux, Vim, IDE's
 
 <br>
 
@@ -36,3 +36,4 @@ Tasks, ideas, projects, codes that I want to do.
 - DIO's course about Java [link](https://web.dio.me/play?tab=cursos)
 - Java course in DIO?
 - Install a markdown plugin to lunarvim
+- Documentation about tmux
