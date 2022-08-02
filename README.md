@@ -10,6 +10,8 @@ Tasks, ideas, projects, codes that I want to do.
 - Upgrade my personal README
 - LunarVim with [ChrisAtMachine](https://www.youtube.com/c/ChrisAtMachine/playlists)
 - Documentation about LunarVim
+- Install a RedHat Enterprise Linux (RHEL)
+- Install Kali Linux
 
 
 <br>
