@@ -12,6 +12,7 @@ Tasks, ideas, projects, codes that I want to do.
 - Install a RedHat Enterprise Linux (RHEL)
 - Install Kali Linux
 - How to use npm live-server
+- Do [pokedex](https://www.youtube.com/watch?v=SjtdH3dWLa8)
 
 <br>
 
