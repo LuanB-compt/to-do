@@ -11,7 +11,7 @@ Tasks, ideas, projects, codes that I want to do.
 - Documentation about LunarVim
 - Install a RedHat Enterprise Linux (RHEL)
 - Install Kali Linux
-
+- How to use npm live-server
 
 <br>
 
