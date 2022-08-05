@@ -36,7 +36,7 @@ Tasks, ideas, projects, codes that I want to do.
 - Scripts to windows close and shutdown WSL [link](https://github.com/LuanB-compt/Setup/blob/master/Powershell/wsl_poweroff.ps1)
 - DIO's course about Java [link](https://web.dio.me/play?tab=cursos)
 - Java course in DIO?
-- Install a markdown plugin to lunarvim
+- Install a markdown plugin to lunarvim [this](https://github.com/iamcco/markdown-preview.nvim)
 - Documentation about tmux [link](https://github.com/LuanB-compt/documentation/blob/master/tmux.md)
 - Rewrite the details in English of my repos
 - Upgrade my personal README
