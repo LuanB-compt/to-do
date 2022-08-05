@@ -23,7 +23,6 @@ Tasks, ideas, projects, codes that I want to do.
 # **doing:**
 - Finance_control with Java?
 - More Java course to learn the first 20% of knowledgment
-- Upgrade my personal README
 - Mario jump game in html
 
 <br>
@@ -41,3 +40,4 @@ Tasks, ideas, projects, codes that I want to do.
 - Install a markdown plugin to lunarvim
 - Documentation about tmux
 - Rewrite the details in English of my repos
+- Upgrade my personal README
