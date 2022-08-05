@@ -23,7 +23,6 @@ Tasks, ideas, projects, codes that I want to do.
 # **doing:**
 - Finance_control with Java?
 - More Java course to learn the first 20% of knowledgment
-- Mario jump game in html
 
 <br>
 
@@ -34,11 +33,12 @@ Tasks, ideas, projects, codes that I want to do.
 # **done:**
 - Create a to-do repo
 - Setup dev with Arch Linux in WSL
-- Scripts to windows close and shutdown WSL
+- Scripts to windows close and shutdown WSL [link](https://github.com/LuanB-compt/Setup/blob/master/Powershell/wsl_poweroff.ps1)
 - DIO's course about Java [link](https://web.dio.me/play?tab=cursos)
 - Java course in DIO?
 - Install a markdown plugin to lunarvim
-- Documentation about tmux
+- Documentation about tmux [link](https://github.com/LuanB-compt/documentation/blob/master/tmux.md)
 - Rewrite the details in English of my repos
 - Upgrade my personal README
 - Install live-server to my arch linux (web dev.)
+- Mario jump game in html [link](https://luanb-compt.github.io/mario-game-html/)
