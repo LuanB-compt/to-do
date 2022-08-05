@@ -41,3 +41,4 @@ Tasks, ideas, projects, codes that I want to do.
 - Documentation about tmux
 - Rewrite the details in English of my repos
 - Upgrade my personal README
+- Install live-server to my arch linux (web dev.)
