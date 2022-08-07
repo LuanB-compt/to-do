@@ -12,7 +12,6 @@ Tasks, ideas, projects, codes that I want to do.
 - Install a RedHat Enterprise Linux (RHEL)
 - Install Kali Linux
 - How to use npm live-server
-- Do [pokedex](https://www.youtube.com/watch?v=SjtdH3dWLa8)
 
 <br>
 
@@ -42,3 +41,4 @@ Tasks, ideas, projects, codes that I want to do.
 - Upgrade my personal README
 - Install live-server to my arch linux (web dev.)
 - Mario jump game in html [link](https://luanb-compt.github.io/mario-game-html/)
+- Do [pokedex](https://www.youtube.com/watch?v=SjtdH3dWLa8)
