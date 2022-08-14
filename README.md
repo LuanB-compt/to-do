@@ -11,7 +11,6 @@ Tasks, ideas, projects, codes that I want to do.
 - Documentation about LunarVim
 - Install a RedHat Enterprise Linux (RHEL)
 - Install Kali Linux
-- How to use npm live-server
 
 <br>
 
@@ -42,3 +41,4 @@ Tasks, ideas, projects, codes that I want to do.
 - Install live-server to my arch linux (web dev.)
 - Mario jump game in html [link](https://luanb-compt.github.io/mario-game-html/)
 - Do [pokedex](https://www.youtube.com/watch?v=SjtdH3dWLa8)
+- How to use npm live-server
